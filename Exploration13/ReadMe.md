@@ -7,3 +7,4 @@ Implicit 라이브러리를 활용하여 Matrix Factorization(이하 MF) 기반�
 Movielens을 활용하여 비슷한 영화를 찾고 영화를 추천해 본다.
 추천 시스템에서 자주 사용되는 데이터 구조인 CSR Matrix을 익힌다
 유저의 행위 데이터 중 Explicit data와 Implicit data의 차이점을 익힌다.
+
